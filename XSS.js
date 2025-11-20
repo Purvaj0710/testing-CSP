@@ -1,0 +1,1 @@
+alert("CSP test: External JS loaded!");
