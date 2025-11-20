@@ -1,1 +1,1 @@
-alert("CSP test: External JS loaded!");
+alert("document.cookie");
